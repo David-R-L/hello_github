@@ -6,7 +6,7 @@ font-weight: bold;
 }
 
 h5 ,h4,h3{
-color:#f84747; 
+columns: #f84746; 
 }
 
 h5{
@@ -79,6 +79,10 @@ font-size: 25px;
   background-color: #F6E3CE; 
   text-align: center;
    margin: 25px;
+}
+
+.lorem  {
+  font-size: 500px;
 }
 
 footer {
