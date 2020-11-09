@@ -1,0 +1,104 @@
+html {
+
+background-color:#F8E0E0;
+font-weight: bold;
+
+}
+
+h5 ,h4,h3{
+color:#f84747; 
+}
+
+h5{
+font-size: 50px;
+}
+
+div{
+padding: 15px;	
+}
+
+.erase{
+color:#dd6618;
+font-size: 30px;
+
+}
+
+.argumento{
+color:#F5A9BC;
+font-size: 25px;
+
+}
+
+.vik{
+font-size: 40px;
+}
+
+
+.date{
+color:#dd6618;
+font-size: 30px;
+}
+
+.sigurd{
+color:#371df6;
+font-size: 25px;
+}
+
+.final{
+font-size: 30px;
+}
+
+.elmejor{
+color:#dd6618;
+font-size: 30px;
+}
+
+.argumentoff{
+color:#FAAC58;
+font-size: 25px;
+}
+
+.tboku {
+  border: 4px outset #dd6618;
+  background-color: #F8E0E6; 
+  text-align: center;
+  margin: 25px;
+  
+}
+
+
+.vikdiv {
+  border: 4px outset #dd6618;
+  background-color: #CED8F6; 
+  text-align: center;
+  margin: 15px;
+}
+
+.divfinal {
+  border: 4px outset #dd6618;
+  background-color: #F6E3CE; 
+  text-align: center;
+   margin: 25px;
+}
+
+footer {
+
+text-align: center;
+background-color: lightgrey;
+color: white;
+
+}
+
+#demo {
+	font-size: 50px;
+	color: white;
+	background-color: black;
+  }
+  
+  #demo2 {
+    font-size: 40px;
+    color: white;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }

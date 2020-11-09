@@ -1,0 +1,78 @@
+notas:
+
+introduccion a HTML:
+
+html: hyper text mark up of lenguage
+
+html son el esqueleto, huesos de las paginas web  
+
+ultima version en funcionamiento: html 5
+
+<html> = etiquetas de marcado.
+
+h1, h2, h3, h4, h5 hasta h6 = los titulos
+a mayor numero menor tamaño.
+
+p= paragraphs
+
+hexadecimal: enumeraciones de 1 a 16 donde A es 10 y F es 16, usado principalmente para colores.
+1 - 16
+A - F
+
+<p>  -estiqueta de abrir
+</p> -etiqueta de cerrado
+
+imagen:
+codigo ejemplo: <img src="guts.png" alt="Girl in a jacket" width="500" height="600">
+
+src= source (nombre completo de la imagen con su ubicacion.)
+
+atributos, ej: style="color:#000000;"
+
+
+introduccion a css
+
+css: cascade style sheet
+
+classse´s y Id´s
+
+classes: se pueden aplicar en muchos elementos/tags (estos van con punto(.))
+
+Id: son unicos. (estos van con numeral (#))
+
+html: huesos/estructura/base
+css:  musculos/piel/parte estetica
+javascript: mente/logica de las paginas
+
+selectores de estilos (tema de css):
+orden de prioridad:
+
+1. in-line
+2. id´s 
+3. classe´s
+4. tags (etiquetas)
+
+tag: son los elementos que utilizaq html para contener la informacion/elementos..
+
+elementos H tienen un font-weight predefinido u agregado.
+
+modelo de caja: se refiere a espaciado de todos los elementos, no hay elementos que no lo tengan, 
+por lo general pueda que esten en 0, (margin (externo), padding (interno) y border (borde).
+
+para modificar propiedades de margin, padding y border el orden de referencia dentro de un solo elemento es: top, right, bottom y left
+ (manecillas del reloj)
+
+otra forma de trabajar los modelos de caja es con tres valores: top, right-left y bottom
+
+
+otra forma de trabajar los modelos de caja es con dos valores: top-bottom, right-left.
+
+ej:
+
+    margin: 30px;
+    border: 1px solid red;
+    padding-top: 20px; 
+    padding-bottom: 30px; 
+    padding: 15px 10px 20px 30px; 
+    padding: 15px 30px;
+    padding: 15px 30px 80px
